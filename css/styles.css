@@ -39,6 +39,12 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 3%;
 }
 
+h2{
+  color: orange;
+  text-transform: uppercase;
+  font-weight: 300;
+}
+
 article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, section {
 	display: block;
 }
@@ -79,6 +85,7 @@ nav h1 a {
   letter-spacing: .6em;
   text-transform: uppercase;
 }
+
 
 #breadcrumb {
     padding: 1%;
